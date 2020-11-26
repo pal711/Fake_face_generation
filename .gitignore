@@ -1,0 +1,5 @@
+*.zip
+.ipynb_check*
+processed-celeba-small
+dlnd_face_generation.html
+
